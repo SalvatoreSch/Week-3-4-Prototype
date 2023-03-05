@@ -1,0 +1,28 @@
+
+Enum
+- PreGame
+- Game
+- PostGame
+
+Menu - Pregame
+Gameplay and UI - Game
+Game Over/ wooop Restart - PostGame
+
+What can the player do
+Player Can
+- Move W,A,S,D
+- Die
+- Hurt Enemies
+	- Shoot
+	- Dash
+- Collect
+	- Bubble
+
+What is your Goal?
+- last as long as you can 
+- kill as many enemies as you can
+- kill enemies = score
+
+Win?
+- you dont you eventually die
+- but you got as far as you could score wise
